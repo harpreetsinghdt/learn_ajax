@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.5.0",
+    "jquery": "^3.7.1",
+    "jsdom": "^22.1.0",
+    "request": "^2.88.2",
+    "superagent": "^8.1.2",
+    "xhr": "^2.6.0"
+  }
+}
